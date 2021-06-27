@@ -20,3 +20,7 @@ BSD Glossaries
                Each `vmspace` has an embeded `pmap`.
                The page tables are the MD representation of the `vmspace`,
                and the processor's `CR3` control register points to the root of the page tables.
+
+Kernel
+------
+- **AST**: (Asynchronous System Trap)
